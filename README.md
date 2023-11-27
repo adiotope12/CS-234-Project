@@ -4,7 +4,7 @@ Hello and welcome to my repository! My name is Tope and I created a simple websi
 -Login Page
 The login page takes a username and password and will tell you if the username is not in the registration table, or if your password does not match the username provided. It also includes a button that can take new users to a registration page. Upon a successful login, the user is then taken to the homepage.
 
--Registration page
+-Registration page /n
 The Registration page allows the user to create a username and password according to the rules presented. The user's info is then inserted into my registration table as long as it follows the rules and doesn't match another user's username. Upon a successful registration, the user is taken to the homepage.
 
 -Homepage
