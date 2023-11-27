@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Registration</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="registration.css">
+    </head>
+    <body>
+        <h1>Registration</h1>
+        <form action="registrationFunction.php" method="Post">
+            <ul>Username:
+                <li>6-12 Characters long</li>
+            </ul>
+            <input type="text" name="username" id="username" placeholder = "Type Your Username Here" required><br><br>
+
+            <ul>Password:
+                <li>6-12 Characters long</li>
+                <li>1 Uppercase Letter</li>
+                <li>1 Number</li>
+            </ul>
+            <input type="password" name="password" id="password" placeholder = "Type Your Password Here" required><br><br>
+
+            <label>Confirm Password:</label><br><br>
+            <input type="password" name="password2" id="password2" placeholder = "Retype Your Password Here" required><br><br>
+
+            <input type="submit" name="Submit" id="submit" >
+        </form>
+        <footer>
+            2023 &copy; Tope Adio
+        </footer>
+    </body>
+</html> 

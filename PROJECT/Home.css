@@ -1,0 +1,138 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:larger;
+    background-image:url(IMG_0075.JPG);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    color:white;
+    text-size-adjust:initial;
+}
+
+header{
+    text-align:center;
+    background-color:black;
+    border-color:white;
+    border-style:groove;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width:fit-content;
+    margin-left: auto;
+    margin-right:auto;
+    
+
+}
+
+
+h2{
+    text-align:center;
+    background-color:black;
+    width: fit-content;
+    padding:20px;
+    height:auto;
+    border-style:groove;
+    border-radius: 20px;
+}
+
+img{
+    max-width: 300px;
+    width:auto;
+    height:auto;
+
+}
+
+main{
+    display:flex;
+}
+
+button{
+    background-color:black;
+    border-color:white;
+    color: white;
+   width: 200px;
+   height:100px;
+   font-size:30px;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   border-radius: 20px;
+}
+
+#maindiv{
+    background-color:black;
+    border-style:groove;
+    border-radius: 20px;
+    min-width: 600px;
+    width:50%;
+    height:auto;
+    padding:20px;
+    white-space: nowrap;
+    display: inline-flex;
+    margin-left:auto;
+    overflow:auto;
+    text-wrap:wrap;
+    overflow-wrap: break-word;
+
+}
+
+#createDiv{
+    background-color:black;
+    border-style:groove;
+    border-radius: 20px;
+    width:50%;
+    height:auto;
+    padding:20px;
+    margin-left:auto;
+    overflow:auto;
+    text-wrap:wrap;
+    overflow-wrap: break-word;
+
+}
+
+#starDiv{
+    background-color:black;
+    border-style:groove;
+    border-radius: 20px;
+    width:50%;
+    height:auto;
+    padding:20px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+
+}
+
+#reviewDiv{
+    background-color:black;
+    border-style:groove;
+    border-radius: 20px;
+    width: 80%;
+    height:auto;
+    padding:20px;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+#bio{
+    padding-left:20px;
+   
+}
+
+#buttons{
+    margin-right:auto;
+    margin-left:20px;
+}
+
+#reviewFooter{
+    color:white;
+    text-align:left;
+    bottom:0;
+}
+
+#homefooter{
+    color:white;
+    text-align:left;
+    bottom:0;
+    position:absolute;
+}
