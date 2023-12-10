@@ -34,4 +34,4 @@ Here anyone given admin status can update the database by submitting an sql stat
 
 -Logout page
 
-There is a separate logout page, but it is just a single line that outputs the user's username and tells them goodbye.
+There is a separate logout page, but it is just a single line that tells the user goodbye and ends their session.
