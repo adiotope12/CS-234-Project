@@ -2,6 +2,7 @@
 Hello and welcome to my repository! My name is Tope and I created a simple website as a project for my CS 234 (Database and Web System development) that runs on my localhost MAMP server. The purpose of this README file is to inform about the function of each page.
 
 -Login Page
+https://github.com/adiotope12/CS-234-Project/blob/main/Log%20In%20Page.png
 
 The login page takes a username and password and will tell you if the username is not in the registration table, or if your password does not match the username provided. It also includes a button that can take new users to a registration page. Upon a successful login, the user is then taken to the homepage.
 
